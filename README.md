@@ -2,6 +2,8 @@
 
 Unityでライフゲームタワーのサンプルプロジェクトです
 
+[解説記事](https://technote.qualiarts.jp/article/56)
+
 <img width="400" src="https://github.com/rarudo/UnityLifeGameTowerSample/assets/15700036/8fb9d7db-5627-4303-ae35-9f7904aaa774">
 <img width="400" src="https://github.com/rarudo/UnityLifeGameTowerSample/assets/15700036/34fdd70c-50e9-4953-b04c-c27dd51c05a0">
 <img width="400" src="https://github.com/rarudo/UnityLifeGameTowerSample/assets/15700036/9b80ded2-1de7-4880-a931-6974f6df4a99">
