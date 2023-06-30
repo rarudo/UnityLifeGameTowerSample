@@ -1,0 +1,28 @@
+{
+    "name": "Tests1",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Unity.PerformanceTesting",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Collections.BurstCompatibilityGen",
+        "Unity.Collections.CodeGen",
+        "Unity.Burst",
+        "Unity.Burst.CodeGen"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
